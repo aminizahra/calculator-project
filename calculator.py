@@ -6,6 +6,9 @@ def add(x, y):
 def subtract(x, y):
     return x - y
 
+def multiply(x, y):
+    return x * y
+
 def main():
     # Manual input for testing
     num1 = 10  # Example value for the first number
